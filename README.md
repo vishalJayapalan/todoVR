@@ -1,2 +1,2 @@
 # todoVR
-todo vuejs express redis
+FrontEnd : VueJS BackEnd: Node + Express + Redis
